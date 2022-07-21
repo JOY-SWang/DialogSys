@@ -1,0 +1,1 @@
+{"do_lower_case": false, "unk_token": "[UNK]", "pad_token": "[UNK]", "cls_token": "[CLS]", "sep_token": "[SEP]", "mask_token": "[MASK]", "special_tokens_file": "", "tokenizer_class": "UnifiedTransformerTokenizer"}
